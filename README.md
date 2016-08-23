@@ -1,6 +1,6 @@
 # unity3d
-Projeto de um jogo 2d utilizando o unity3d como plataforma de desenvolvimento.
-Apenas como forma de aprendizagem.
+Projeto de um jogo 2d utilizando o unity3d como plataforma de desenvolvimento.<br>
+Apenas como forma de aprendizagem.<br>
 Nada aqui é utilizado de forma comercial.
 
 # Tutorial baseado
