@@ -24,5 +24,10 @@ public class MoveObject : MonoBehaviour {
 
 		// faz a atualização da tela
 		transform.position = new Vector3(x, transform.position.y, transform.position.z);
+
+		// destruindo o objeto depois que ele deixa a tela
+		if(x <= -2) {
+			Destroy (transform.gameObject);
+		}
 	}
 }

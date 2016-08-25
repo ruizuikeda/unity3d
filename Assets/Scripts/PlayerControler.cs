@@ -2,6 +2,8 @@
 using System.Collections;
 
 public class PlayerControler : MonoBehaviour {
+	//youtube
+	//https://www.youtube.com/watch?v=QSGILStP1lg&list=PLOFacakspTDJD5OuedwEhh2FXPdchpIC1
 
 	// variaveis
 	public Rigidbody2D		Player;
