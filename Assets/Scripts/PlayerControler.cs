@@ -1,5 +1,6 @@
 ﻿using UnityEngine;
 using System.Collections;
+using UnityEngine.SceneManagement;
 
 public class PlayerControler : MonoBehaviour {
 	//youtube
@@ -104,6 +105,7 @@ public class PlayerControler : MonoBehaviour {
 
 	void OnTriggerEnter2D(){
 		Debug.Log ("> Colidiu.");
+		SceneManager.LoadScene ("index");
 	}
 
 }
